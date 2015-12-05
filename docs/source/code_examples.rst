@@ -82,7 +82,7 @@ Get usernames of followers/following of a user
 	followers=driver.get_followers('username',10)
 
 	# Get 10 following
-	following=driver.get_following('username,10)
+	following=driver.get_following('username',10)
 
 
 Search usernames by term and print their details
