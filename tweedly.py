@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# Chirpy v. 0.1.0 
+# Tweedly v. 0.1.0 
 #
 # About: A Python library for Twitter, which does not need any OAUTH authentication. Diving in Twitter has never been so easy.
 # Warning: for security reasons, do not use this tool with your personal Twitter account
