@@ -21,7 +21,7 @@ Read some tweets
    
    tweets=driver.search_tweets("wine",10)
    for tweet in tweets:
-	print driver.get_tweet_info(tweet["id"])
+	print driver.get_tweet_info(tweet["author"],tweet["id"])
    
 This fragment of code will search for the first 10 tweets including the word "wine" and will print each of them to the console. That's it! See :ref:`Code examples <code_examples>` to have a look on more interesting tasks.
 
