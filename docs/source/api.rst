@@ -6,12 +6,19 @@ API Reference
 ***************
 This page contains documentation for the Tweedly module.
 
+
+:mod:`tweedly.Twitter`
+======================
+
 .. class:: Twitter(username, password)
 
    The functions provided in this class are listed below.
 
    :param str username: |username|
    :param str password: |password|
+
+Access methods
+--------------
 
 .. method:: login():
    
@@ -26,6 +33,9 @@ This page contains documentation for the Tweedly module.
    Check if the user is logged or not.
 	
    :return: a boolean
+
+Action methods
+--------------
 
 .. method:: follow(username):
    
@@ -80,6 +90,10 @@ This page contains documentation for the Tweedly module.
    Report the username for spam.
 	
    :param str username: specifies the screen_name of the user to report for spam	
+
+
+Search methods
+--------------
 
 .. method:: get_user_info(username):
    
@@ -136,6 +150,9 @@ This page contains documentation for the Tweedly module.
    :param str searchterm: specifies the search term
    :param int max_num: specifies the number of tweets to get
    :return: a list of dictionaries including keys "id" of the tweet and "author"
+
+:mod:`tweedly.LoginException`
+=============================
 
 .. class: LoginException(Exception)
    
