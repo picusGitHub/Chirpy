@@ -154,6 +154,6 @@ Search methods
 :mod:`tweedly.LoginException`
 =============================
 
-.. class: LoginException(Exception)
+.. class:: LoginException(Exception)
    
    The exception raised by a failed login.	
