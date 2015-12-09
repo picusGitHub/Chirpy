@@ -15,7 +15,7 @@ Read some tweets
 
 .. code-block :: python
 
-   import tweedly
+   import twirly
 
    driver = Twitter("username","login")
    
@@ -28,5 +28,5 @@ This fragment of code will search for the first 10 tweets including the word "wi
 Authentication and API
 ======================
 
-APP authentication? No way! The approach of this Python library is to give you the utmost freedom without any OAUTH authentication. Indeed, as Tweedly does not rely on official Twitter API, every functionality is implemented by direct interaction with HTML elements.
+APP authentication? No way! The approach of this Python library is to give you the utmost freedom without any OAUTH authentication. Indeed, as Twirly does not rely on official Twitter API, every functionality is implemented by direct interaction with HTML elements.
 

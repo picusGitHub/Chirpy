@@ -1,9 +1,9 @@
-.. Tweedly documentation master file, created by
+.. Twirly documentation master file, created by
    sphinx-quickstart on Thu Dec  3 16:59:36 2015.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Tweedly's documentation!
+Twirly's documentation!
 ====================================
 
 Contents:

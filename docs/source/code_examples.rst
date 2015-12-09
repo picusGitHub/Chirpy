@@ -8,11 +8,11 @@ Code examples
 Introduction
 ============
 
-Here you will find some examples of usage of this class. Before executing the scripts below don't forget to import Tweedly and initialize it providing username and password of your account!
+Here you will find some examples of usage of this class. Before executing the scripts below don't forget to import Twirly and initialize it providing username and password of your account!
 
 .. code-block :: python
 
-   import tweedly
+   import twirly
 
    driver = Twitter('my_username','my_password')
 

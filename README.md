@@ -1,6 +1,6 @@
-# Tweedly
-A Python Twitter API which does not need any OAUTH authentication
+# Twirly
+Twirly (TWItter Rogue Library in pYthon) is a Twitter API which does not need any OAUTH authentication
 
 #Documentation
 
-http://tweedly.readthedocs.org/
+http://twirly.readthedocs.org/
