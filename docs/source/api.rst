@@ -4,10 +4,10 @@
 ***************
 API Reference
 ***************
-This page contains documentation for the Tweedly module.
+This page contains documentation for the Twirly module.
 
 
-:mod:`tweedly.Twitter`
+:mod:`twirly.Twitter`
 ======================
 
 .. class:: Twitter(username, password)
@@ -151,7 +151,7 @@ Search methods
    :param int max_num: specifies the number of tweets to get
    :return: a list of dictionaries including keys "id" of the tweet and "author"
 
-:mod:`tweedly.LoginException`
+:mod:`twirly.LoginException`
 =============================
 
 .. class:: LoginException(Exception)
