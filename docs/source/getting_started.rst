@@ -5,6 +5,8 @@
 Getting started
 ***************
 
+Twirly (TWItter Rogue Library in pYthon)
+
 Introduction
 ============
 
