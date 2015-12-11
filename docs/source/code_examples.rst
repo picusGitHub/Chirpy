@@ -12,7 +12,7 @@ Here you will find some examples of usage of this class. Before executing the sc
 
 .. code-block :: python
 
-   import twirly
+   from twirly import Twitter
 
    driver = Twitter('my_username','my_password')
 

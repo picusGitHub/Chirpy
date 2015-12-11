@@ -17,7 +17,7 @@ Read some tweets
 
 .. code-block :: python
 
-   import twirly
+   from twirly import Twitter
 
    driver = Twitter("username","login")
    
