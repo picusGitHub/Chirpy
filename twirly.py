@@ -306,7 +306,7 @@ class Twitter():
 	return user_list
 	
 
-    def get_tweets(self,screen_name,max_num):
+    def get_tweets(self,username,max_num):
 	"""Return at most max_num tweets from the username timeline. This method is run anonymously (without any Session active).
 
 	:param str username: specifies the screen_name of the user
